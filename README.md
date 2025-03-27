@@ -24,32 +24,32 @@ si_mg_table
 | f_[Fe/H] | Flag on [Fe/H] | dimensionless | APO-K2 >> APOGEE DR17
 | ages | Ages from  | Gyr | APO-K2 II [Warfield et al. (2024)](https://arxiv.org/abs/2403.16250)
 | ruwe | Re-normalized Unit Weight Error from Gaia Dr3 | dimensionless | Gaia DR3 
-| [Si/H] | Silicon relative to Hydrogen | This Work
-| [Mg/H] | Magnesium relative to Hydrogen | This Work
-| [C/H] | Carbon relative to Hydrogen | This Work
-| [O/H] | Oxygen relative to Hydrogen | This Work
-| e_[Si/H] | Error on [Si/H] | This Work
-| e_[Mg/H] | Error on [Mg/H] | This Work
-| e_[C/H] | Error on [C/H] | This Work
-| e_[O/H] | Error on [O/H] | This Work
-| [Mg/Si] | Magnesium abudance relative to Silicon | This Work
-| e_[Mg/Si] | Error on [Mg/Si] | This Work
-| [Si/Mg] | 
-| e_[Si/Mg] | 
-| [C/O] | 
-| e_[C/O] | 
-| [Fe/Si] | 
-| A(Si) | 
-| A(Mg) | 
-| A(C) | 
-| A(O) | 
-| si_moles | 
-| mg_moles | 
-| fe_moles | 
-| c_moles | 
-| o_moles | 
-| [Mg/Si]_abs | 
-| [C/O]_abs | 
-| u_w_2 | 
-| halo_flag | 
+| [Si/H] | Silicon relative to Hydrogen | | This Work
+| [Mg/H] | Magnesium relative to Hydrogen | | This Work
+| [C/H] | Carbon relative to Hydrogen | | This Work
+| [O/H] | Oxygen relative to Hydrogen | | This Work
+| e_[Si/H] | Error on [Si/H] | | This Work
+| e_[Mg/H] | Error on [Mg/H] | | This Work
+| e_[C/H] | Error on [C/H] | | This Work
+| e_[O/H] | Error on [O/H] | | This Work
+| [Mg/Si] | Magnesium abudance relative to Silicon | | This Work
+| e_[Mg/Si] | Error on [Mg/Si] | | This Work
+| [Si/Mg] | Silicon abundance relative to Magnesium | | This Work
+| e_[Si/Mg] | Error on [Si/Mg] | | This Work 
+| [C/O] | Carbon abundance relative to Oxygen | | This Work
+| e_[C/O] | Error on [C/O] | | This Work
+| [Fe/Si] | Iron abundance relative to Silicon | | This Work 
+| A(Si) | Absolute Silicon abundance | | This Work 
+| A(Mg) | Absolute Magesium abundance | | This Work
+| A(C) | Absolute Carbon abundance | | This Work
+| A(O) | Absolute Oxygen abundance | | This Work
+| si_moles | Silicon abundance | moles | This Work 
+| mg_moles | Magnesium abundance | moles | This Work
+| fe_moles | Iron abundance | moles | This Work
+| c_moles | Carbon abudance | moles | This Work 
+| o_moles | Oxygen abundance | moles | This Work
+| [Mg/Si]_abs | Absolute relative Magnesium to Silicon | | This Work
+| [C/O]_abs | Absolute relative Carbon to Oxygen | | This Work 
+| u_w_2 | Galactic Velocity | | This Work
+| halo_flag | Flag on Halo Stars | Dimensionless | This Work 
 
